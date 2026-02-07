@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WaterfowlBlinds.Api/WaterfowlBlinds.Api.csproj" />
+    <Project Path="src/WaterfowlBlinds.Application/WaterfowlBlinds.Application.csproj" />
+    <Project Path="src/WaterfowlBlinds.Contracts/WaterfowlBlinds.Contracts.csproj" />
+    <Project Path="src/WaterfowlBlinds.Domain/WaterfowlBlinds.Domain.csproj" />
+    <Project Path="src/WaterfowlBlinds.Infrastructure/WaterfowlBlinds.Infrastructure.csproj" />
+  </Folder>
+</Solution>

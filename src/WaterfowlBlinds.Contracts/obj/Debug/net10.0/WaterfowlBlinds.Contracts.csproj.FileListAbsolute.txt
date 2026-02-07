@@ -1,0 +1,12 @@
+/home/seraphim/virginia-waterfowl-blinds/src/WaterfowlBlinds.Contracts/bin/Debug/net10.0/WaterfowlBlinds.Contracts.deps.json
+/home/seraphim/virginia-waterfowl-blinds/src/WaterfowlBlinds.Contracts/bin/Debug/net10.0/WaterfowlBlinds.Contracts.dll
+/home/seraphim/virginia-waterfowl-blinds/src/WaterfowlBlinds.Contracts/bin/Debug/net10.0/WaterfowlBlinds.Contracts.pdb
+/home/seraphim/virginia-waterfowl-blinds/src/WaterfowlBlinds.Contracts/obj/Debug/net10.0/WaterfowlBlinds.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/seraphim/virginia-waterfowl-blinds/src/WaterfowlBlinds.Contracts/obj/Debug/net10.0/WaterfowlBlinds.Contracts.AssemblyInfoInputs.cache
+/home/seraphim/virginia-waterfowl-blinds/src/WaterfowlBlinds.Contracts/obj/Debug/net10.0/WaterfowlBlinds.Contracts.AssemblyInfo.cs
+/home/seraphim/virginia-waterfowl-blinds/src/WaterfowlBlinds.Contracts/obj/Debug/net10.0/WaterfowlBlinds.Contracts.csproj.CoreCompileInputs.cache
+/home/seraphim/virginia-waterfowl-blinds/src/WaterfowlBlinds.Contracts/obj/Debug/net10.0/WaterfowlBlinds.Contracts.sourcelink.json
+/home/seraphim/virginia-waterfowl-blinds/src/WaterfowlBlinds.Contracts/obj/Debug/net10.0/WaterfowlBlinds.Contracts.dll
+/home/seraphim/virginia-waterfowl-blinds/src/WaterfowlBlinds.Contracts/obj/Debug/net10.0/refint/WaterfowlBlinds.Contracts.dll
+/home/seraphim/virginia-waterfowl-blinds/src/WaterfowlBlinds.Contracts/obj/Debug/net10.0/WaterfowlBlinds.Contracts.pdb
+/home/seraphim/virginia-waterfowl-blinds/src/WaterfowlBlinds.Contracts/obj/Debug/net10.0/ref/WaterfowlBlinds.Contracts.dll
